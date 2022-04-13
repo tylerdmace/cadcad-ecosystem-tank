@@ -1,0 +1,4 @@
+engine: 0.4.28
+name: labs
+version: 1.0
+description: Scaffolds a skeleton model that is BlockScience Labs ready.
