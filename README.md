@@ -1,1 +1,2 @@
-# cadcad-ecosystem-tank
+# Ecosystem Tank
+Modeling a freshwater ecosystem tank that doesn't require water changes, filtration, or any other human intervention other than water top-offs and fish feeding. More information can be found [here](https://app.blocksciencelabs.com/project/82/documentation).
